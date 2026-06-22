@@ -1,6 +1,6 @@
 spring:
   application:
-    name: razorpay
+    name: wumbeepay
 
   datasource:
     url: jdbc:postgresql://localhost:5432/razorpayDb
