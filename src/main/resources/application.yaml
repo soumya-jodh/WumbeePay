@@ -3,7 +3,7 @@ spring:
     name: wumbeepay
 
   datasource:
-    url: jdbc:postgresql://localhost:5432/razorpayDb
+    url: jdbc:postgresql://localhost:5432/wumbeepayDb
     username: "username-here"
     password: "your-pass-here"
 
